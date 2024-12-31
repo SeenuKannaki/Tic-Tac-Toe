@@ -19,5 +19,4 @@ A fun and interactive implementation of the classic **Tic-Tac-Toe** game built w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-react.git
-   cd tic-tac-toe-react
+   git clone https://github.com/SeenuKannaki/Tic-Tac-Toe
